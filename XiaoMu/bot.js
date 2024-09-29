@@ -96,7 +96,7 @@ function showCopiedFeedback(element) {
 //这个地方就是个很简单的javascript的if判断，通过判断消息内容里是否存在关键词来决定回复什么话术，你自己要加话术的话就复制我注释的那一段然后往下一行粘贴
 //原作者：折木，真的球球了，大家二改请不要删除这段话，谢谢大家了，我之前写的假打款就被二改大肘子“坏蛋”二改成他的了，圈子里的人都一度认为是坏蛋写的，真的很难受
 //有什么想写的可以联系QQ：2405637643，演示完后付款，欢迎大家前来支持
-//此源代码基于“MIT协议”开源（协议文件我就不搞了，反正都会被删），欢迎大家前来修改，欢迎大家前来提意见g ithub开源地址：https://github.com/zhemu-code/chatbot
+//此源代码基于“MIT协议”开源（协议文件我就不搞了，反正都会被删），欢迎大家前来修改，欢迎大家前来提意见g ithub开源地址：https://github.com/itsfu7/ShaYu_BOT
 
 function respondToMessage(message) {
     let response = '';
